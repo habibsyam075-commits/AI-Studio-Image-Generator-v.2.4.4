@@ -1,0 +1,5 @@
+{
+  "name": "AI Studio Image Generator v.2.4.4",
+  "description": "An application that lets users upload a reference photo and generate new AI images by defining a model (person) and a scene (background). It combines all user inputs to generate a realistic, professional image.",
+  "requestFramePermissions": []
+}
